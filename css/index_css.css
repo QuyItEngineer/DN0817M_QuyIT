@@ -1,0 +1,12 @@
+.w20{
+	float: left;
+	width: 20%;
+}
+.w80{
+	float: right;
+	width: 80%;
+}
+button.btn.btn-primary.dangky a {color: blue}
+.name {
+    padding-top: 90px;
+}
