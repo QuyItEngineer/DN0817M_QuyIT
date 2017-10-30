@@ -1,0 +1,32 @@
+.textLogo{
+	font-family: 'Trade Winds', cursive;
+}
+.container-fluid {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 0px;
+	padding-left: 0px;
+	width: 100%;
+}
+.myform {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px;
+}
+legend {
+    text-align: center;
+}
+button#formHello {
+    margin: auto 43%;
+}
+.input-group-btn {
+    margin-top: -6px;
+}
+
+.navbar .dropdown-menu a:hover {
+    color: #0275d8;
+}

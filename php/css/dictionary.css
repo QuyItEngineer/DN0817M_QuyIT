@@ -1,0 +1,11 @@
+
+input#text3 {
+    margin-left: 60px;
+}
+
+button#search_dictionary {
+    margin-left: 80px;
+}
+.result_dictionary{
+	margin-left: 5%;
+}

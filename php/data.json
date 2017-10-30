@@ -1,0 +1,22 @@
+[
+    {
+        "email": "quy@abc.def.com",
+        "password": "12345",
+        "phone": "0123456987"
+    },
+    {
+        "email": "quydeptrai@abc.def.com",
+        "password": "12345",
+        "phone": "0123456987"
+    },
+    {
+        "email": "quyquadeptrai@abc.def.com",
+        "password": "12345",
+        "phone": "0123456987"
+    },
+    {
+        "email": "quyquadeptrai@abc.def.com",
+        "password": "123435",
+        "phone": "0967856432"
+    }
+]
