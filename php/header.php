@@ -28,6 +28,19 @@
 				<a class="navbar-brand logo" href="index.php"><h3 class="textLogo">CodeGym</h3></a>
 				<nav class="nav">
 					<a class="nav-link active" href="calculator.php">Calculator</a>
+					<div class="input-group-btn">
+							<button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Database
+							</button>
+							<div class="dropdown-menu dropdown-menu-right">
+								<a class="dropdown-item" href="customerlist.php">Product Manager</a>
+								<a class="dropdown-item" href="data/andor.php">use WHERE</a>
+								<a class="dropdown-item" href="connectMysql.php">Connect data</a>
+								<a class="dropdown-item" href="showdata.php">Show Product</a>
+								<div role="separator" class="dropdown-divider"></div>
+								<a class="dropdown-item" href="#">Separated link</a>
+							</div>
+						</div>
 					<a class="nav-link" href="dictionary.php">Dictionary</a>
 
 						<div class="input-group-btn">
@@ -37,7 +50,8 @@
 							<div class="dropdown-menu dropdown-menu-right">
 								<a class="dropdown-item" href="customerlist.php">Customer List</a>
 								<a class="dropdown-item" href="registerUser.php">Register</a>
-								<a class="dropdown-item" href="#">Something else here</a>
+								<a class="dropdown-item" href="connectMysql.php">Connect data</a>
+								<a class="dropdown-item" href="showdata.php">Show Product</a>
 								<div role="separator" class="dropdown-divider"></div>
 								<a class="dropdown-item" href="#">Separated link</a>
 							</div>
